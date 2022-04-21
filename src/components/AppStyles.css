@@ -1,0 +1,23 @@
+.site-page-header {
+    border: 1px solid rgb(235, 237, 240);
+  }
+
+.filter-button {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1%;
+}
+
+.reserve-button {
+    border-radius: 40px !important;
+    animation-name: stretch;
+    animation-duration: 2.0s;
+    animation-timing-function: ease-out;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+
+.filter-field {
+    color: black !important;
+}
